@@ -31,7 +31,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "@mistlog/type-query": "0.0.1",
+    "@mistlog/type-query": "0.0.3",
     "@mistlog/typetype": "0.0.30",
     "@ts-morph/bootstrap": "^0.9.1"
   }
