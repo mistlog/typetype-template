@@ -1,0 +1,8 @@
+type tuple = ["tesla", "model 3", "model X", "model Y"]
+
+type result = ``` "use js"
+   return $.use("tuple")
+      .tupleToObject()
+      .omit(key => !key.startsWith("model"))
+      .type();
+```
