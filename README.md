@@ -1,2 +1,1 @@
-# typetype-template
-template project for typetype
+# TypeType Template
